@@ -1,1 +1,1 @@
-# netscape-navigator
+# netscape-navigatr
