@@ -29,6 +29,10 @@ nav div{
     justify-content: space-between;
     padding-top: 0.4rem;
 }
+.hr-nav{
+    height: 2px;
+    background-color: gray;
+}
 ul{
     list-style: none;
 }
