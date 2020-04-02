@@ -75,7 +75,6 @@ h2{
     height: 5%;
 }
 .features div{
-    /*width: 90%;*/
     margin-left: 0.5rem;
 }
 .features div p{
@@ -120,9 +119,9 @@ h5{
 }
 .hr-footer{
     width: 48%;
-    color: #7dc3c3;
-    border-color: #7dc3c3;
-    background-color: #7dc3c3;
+    color: #7dc3c3; /*IE7+*/
+    border-color: #7dc3c3; /*Chrome and Safari*/
+    background-color: #7dc3c3; /*Firefox and Opera*/
 }
 footer{
     text-align: right;
