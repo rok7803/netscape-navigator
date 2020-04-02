@@ -121,6 +121,8 @@ h5{
 .hr-footer{
     width: 48%;
     color: #7dc3c3;
+    border-color: #7dc3c3;
+    background-color: #7dc3c3;
 }
 footer{
     text-align: right;
